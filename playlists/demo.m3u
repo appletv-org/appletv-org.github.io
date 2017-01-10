@@ -1,0 +1,437 @@
+#EXTM3U
+#EXTINF:-1,=== ПЛЕЙЛИСТ PeerstvSlyNet ===
+http://hls2.slynet.pw/slynetfreestartpromo?.m3u8
+#EXTINF:-1,112 Украина
+http://91.196.149.76/112ukraine/stream.m3u8
+#EXTINF:-1,3S TV
+http://91.196.149.76/3stv/stream.m3u8
+#EXTINF:-1,5 канал UA
+http://91.196.149.76/5channel/stream.m3u8
+#EXTINF:-1,Enter фильм
+http://91.196.149.76/enterfilm/stream.m3u8
+#EXTINF:-1,News 24
+http://91.196.149.76/news24/stream.m3u8
+#EXTINF:-1,NewsOne
+http://91.196.149.76/newsone/stream.m3u8
+#EXTINF:-1,OTV
+http://91.196.149.76/otv/stream.m3u8
+#EXTINF:-1,Tonis
+http://91.196.149.76/tonis/stream.m3u8
+#EXTINF:-1,Z TV
+http://91.196.149.76/dobrotv/stream.m3u8
+#EXTINF:-1,Дача
+http://91.196.149.76/gamma/stream.m3u8
+#EXTINF:-1,Интер
+http://91.196.149.76/inter/stream.m3u8
+#EXTINF:-1,К1
+http://91.196.149.76/k1/stream.m3u8
+#EXTINF:-1,К2
+http://91.196.149.76/k2/stream.m3u8
+#EXTINF:-1,КРТ
+http://91.196.149.76/krt/stream.m3u8
+#EXTINF:-1,Макси TV
+http://91.196.149.76/maxxi/stream.m3u8
+#EXTINF:-1,Малятко TV
+http://91.196.149.76/malyatko/stream.m3u8
+#EXTINF:-1,Мега
+http://91.196.149.76/mega/stream.m3u8
+#EXTINF:-1,НТН
+http://91.196.149.76/ntn/stream.m3u8
+#EXTINF:-1,Перший/Ера
+http://91.196.149.76/ut1/stream.m3u8
+#EXTINF:-1,Пиксель
+http://91.196.149.76/pixel/stream.m3u8
+#EXTINF:-1,ПлюсПлюс
+http://91.196.149.76/plusplus/stream.m3u8
+#EXTINF:-1,Правда Тут
+http://91.196.149.76/pravdatyt/stream.m3u8
+#EXTINF:-1,Рада
+http://91.196.149.76/rada/stream.m3u8
+#EXTINF:-1,ТЕТ
+http://91.196.149.76/tet/stream.m3u8
+#EXTINF:-1,Украина
+http://91.196.149.76/ukraine/stream.m3u8
+#EXTINF:-1,ЧП.INFO
+http://91.196.149.76/chepeinfo/stream.m3u8
+#EXTINF:-1,2x2
+http://193.110.75.110:5051/play/2x2
+#EXTINF:-1,Новороссия ТВ
+http://193.110.75.110:5051/play/novorossia_TV
+#EXTINF:-1,Оплот
+http://193.110.75.110:5051/play/oplot
+#EXTINF:-1,Оплот 2
+http://193.110.75.110:5051/play/oplot2
+#EXTINF:-1,Оплот ТВ HD
+http://193.110.75.110:5051/play/oplot_tv_hd
+#EXTINF:-1,Первый Республиканский
+http://193.110.75.110:5051/play/respublikanskyi
+#EXTINF:-1,Юнион
+http://193.110.75.110:5051/play/union
+#EXTINF:-1,=== БОНУС ТВ ===
+http://hls2.slynet.pw/slynetfreestartpromo?.m3u8
+#EXTINF:-1,12 канал (Омск)
+http://cdn-01.bonus-tv.ru/gtrkomsk/gtrkomsk/type/user/devname/LG-SmartTV/devid/LG-1469442137/eol/20200101T0000/hash/510de4d7c8db563c9e1f7bbe232311dd6f9fa531/playlist.m3u8
+#EXTINF:-1,1HD
+http://80.250.191.10:1935/live/hjwdj376883hjdfgje7/chunklist.m3u8
+#EXTINF:-1,8 Канал (Красноярск)
+http://80.65.18.213/playlist_bonus_tv_region.m3u8
+#EXTINF:-1,9 Волна
+http://cdn-01.bonus-tv.ru/btv/9volna/type/user/devname/LG-SmartTV/devid/LG-1466490474/eol/20200101T0000/hash/706a3fe43fbf28dbe6f25d303072235c4a94ef86/playlist.m3u8
+#EXTINF:-1,Arirang
+http://cdn-03.bonus-tv.ru/btv/arirang/type/user/devname/LG-SmartTV/devid/LG-1443202515/eol/20200101T000000/hash/5138b3b40fa9498dfa98fa651e8273bdbdf14f61/playlist.m3u8
+#EXTINF:-1,Bravo TV
+http://cdn-10.bonus-tv.ru/bravo/index.m3u8
+#EXTINF:-1,Buy Home
+http://live.buy-home.tv:1935/bhtvlive/live/playlist.m3u8
+#EXTINF:-1,Gameshow
+http://cdn-01.bonus-tv.ru/btv/gameshow/type/user/devname/LG-SmartTV/devid/LG-1465295888/eol/20200101T0000/hash/87f43f0ab86fbdef780f16689b6318d079ae8d46/playlist.m3u8
+#EXTINF:-1,Inva Media
+http://cdn-03.bonus-tv.ru/btv/invatv/type/user/devname/LG-SmartTV/devid/LG-1443615282/eol/20200101T000000/hash/10bb259a80d9c7546a14972f47fee8536ba24ea2/playlist.m3u8
+#EXTINF:-1,KBS World
+http://cdn-03.bonus-tv.ru/btv/kbsworld/type/user/devname/LG-SmartTV/devid/LG-1474711308/eol/20200101T0000/hash/256504442b73f1d929c1a36b033cfd53facda543/playlist.m3u8
+#EXTINF:-1,Life
+http://cdn-01.bonus-tv.ru/btv/lifenews/type/user/devname/LG-SmartTV/devid/LG-1433367804/eol/20200101T000000/hash/963ba2b65d79e4bd01c0ba00930d1b5a09379d09/playlist.m3u8
+#EXTINF:-1,Life78
+http://cdn-01.bonus-tv.ru/btv/life78/type/user/devname/LG-SmartTV/devid/LG-1466700070/eol/20200101T0000/hash/8efbe6fc0e06cb447c62e902030f2424da0c24ca/playlist.m3u8
+#EXTINF:-1,Luxury
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1,Nano
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1,Nebiset
+http://hls.nebiset.tv/nebiset.m3u8
+#EXTINF:-1,RT
+http://cdn-01.bonus-tv.ru/btv/rttv/type/user/devname/LG-SmartTV/devid/LG-1469118640/eol/20200101T0000/hash/d962836f9b6019fd17a5200dac1973a97044ead2/playlist.m3u8
+#EXTINF:-1,RT Doc
+http://cdn-01.bonus-tv.ru/btv/rtdoc/type/user/devname/LG-SmartTV/devid/LG-1469191659/eol/20200101T00/hash/ffea5a73940afa146f5411783313f1e76ae71a46/playlist.m3u8
+#EXTINF:-1,Shop 24
+http://cdn-01.bonus-tv.ru/btv/shop24/type/user/devname/LG-SmartTV/devid/LG-1469118559/eol/20200101T0000/hash/a67518809a79a474301d2e65bda7105644de90c7/playlist.m3u8
+#EXTINF:-1,TVM Channel
+http://cdn-03.bonus-tv.ru/tvm/tvm/type/none/eol/20200101T0000/hash/9ee236eb709eaaba97b5722f1eedae4af79377c7/playlist.m3u8
+#EXTINF:-1,WBC HD
+http://cdn-01.bonus-tv.ru/btv/wbc/type/user/devname/LG-SmartTV/devid/LG-1443193138/eol/20200101T000000/hash/82b80acb7e43f78456d3029a3a23e9c086b2e018/playlist.m3u8
+#EXTINF:-1,World Fashion Europe HD
+http://cdn-03.bonus-tv.ru/wfc/wfhdeu/type/none/eol/20200101T0000/hash/aabac2e34bf0820ea622974e83ae509b36cff888/playlist.m3u8
+#EXTINF:-1,World Fashion RU HD
+http://cdn-03.bonus-tv.ru/wfc/wfhd/type/none/eol/20200101T0000/hash/9a88dd19442705b52370171ff0c442e002c0e219/playlist.m3u8
+#EXTINF:-1,Zooпарк
+http://cdn-01.bonus-tv.ru/btv/zoopark/type/user/devname/LG-SmartTV/devid/LG-1469118402/eol/20200101T0000/hash/283bc4bbe498f77b14b08658942a21a4cb0edcaf/playlist.m3u8
+#EXTINF:-1,Авто 24
+http://cdn-01.bonus-tv.ru/btv/auto24/type/user/devname/LG-SmartTV/devid/LG-1469117798/eol/20200101T0000/hash/b78eb235ba16507c26157dec00c15988f197c5e1/playlist.m3u8
+#EXTINF:-1,Астрахань 24
+http://cdn-01.bonus-tv.ru/astrakhan/astrakhan24/type/user/devname/LG-SmartTV/devid/LG-1462523553/eol/20200101T000000/hash/6e03328c523da2fa9031f82301e3c56c69702a8f/hls.m3u8
+#EXTINF:-1,БСТ
+http://cdn-01.bonus-tv.ru/bst/bst/type/user/devname/LG-SmartTV/devid/LG-1469270110/eol/20200101T0000/hash/e7dbbfc394d075f91c4afba49a9a34338ee53d66/playlist.m3u8
+#EXTINF:-1,Вместе РФ
+http://cdn-01.bonus-tv.ru/vmesterf/vmesterf/type/user/devname/LG-SmartTV/devid/LG-1469271631/eol/20200101T0000/hash/6d0d11a702c7afe8506f32cd86a7ba8c277904cc/playlist.m3u8
+#EXTINF:-1,Детский
+http://cdn-01.bonus-tv.ru/btv/detsky/type/user/devname/LG-SmartTV/devid/LG-1469191513/eol/20200101T00/hash/0fca988f39b64663335d4dbf37524c1c125fdefd/playlist.m3u8
+#EXTINF:-1,Дон 24
+http://cdn-03.bonus-tv.ru/donmedia/don24/type/user/devname/LG-SmartTV/devid/LG-1459881171/eol/20200101T000000/hash/6e8b2a0e99ac2f16bf9ce37f8b114a62bc712c7d/playlist.m3u8
+#EXTINF:-1,Еврокино
+http://cdn-03.bonus-tv.ru/btv/eurokino/type/user/devname/LG-SmartTV/devid/LG-1458502634/eol/20200101T0000/hash/f62307be8e22c5352b374bce643777c23e879bd1/playlist.m3u8
+#EXTINF:-1,Звезда
+http://cdn-01.bonus-tv.ru/btv/zv/type/user/devname/LG-SmartTV/devid/LG-1469191980/eol/20200101T00/hash/e4eb87c59d6df8f0c492b474de047b6f72186a3d/zvezda.m3u8
+#EXTINF:-1,Иллюзион+
+http://cdn-01.bonus-tv.ru/btv/illuzionplus/type/user/devname/LG-SmartTV/devid/LG-1445619284/eol/20200101T000000/hash/cfbc4cad5fb9330b23f4c07681e73a159c56e8c0/playlist.m3u8
+#EXTINF:-1,Калейдоскоп
+http://cdn-01.bonus-tv.ru/btv/kaleidoskop/type/user/devname/LG-SmartTV/devid/LG-1462037961/eol/20200101T000000/hash/23791547a72fbaf9206cbfbb3aa689bbd72d4c8c/playlist.m3u8
+#EXTINF:-1,Конный Мир SD
+http://cdn-01.bonus-tv.ru/btv/konnyimir/type/user/devname/LG-SmartTV/devid/LG-1472043603/eol/20200101T0000/hash/9840f52bc4d1d22b29528d63ec30f20f65767268/playlist.m3u8
+#EXTINF:-1,Красная Линия
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
+#EXTINF:-1,Крик ТВ
+http://cdn-03.bonus-tv.ru/btv/kriktv/type/user/devname/LG-SmartTV/devid/LG-1459265093/eol/20200101T000000/hash/d4bd759a20e4fdfaaa965ca02458790407e6d8b1/playlist.m3u8
+#EXTINF:-1,Курай
+http://cdn-01.bonus-tv.ru/bst/kurai/type/user/devname/LG-SmartTV/devid/LG-1469279536/eol/20200101T0000/hash/334a029798def9a4f0cea0d413db75fa0af6a027/playlist.m3u8
+#EXTINF:-1,Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1,Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1,Мир Белогорья
+http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1,Новое ТВ
+http://hls.novoetv.cdnvideo.ru/novoetv/novoetv.sdp/playlist.m3u8
+#EXTINF:-1,О2 ТВ
+http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/smil:mycdn0633430096.smil/playlist.m3u8
+#EXTINF:-1,Оружие
+http://cdn-03.bonus-tv.ru/btv/orujie/type/user/devname/LG-SmartTV/devid/LG-1469279740/eol/20200101T0000/hash/4bc4564052bbeca706cdf9443e748194a3ed131c/playlist.m3u8
+#EXTINF:-1,Пик ТВ
+http://live.piktv.cdnvideo.ru/piktv_live/mp4:piktv2pik2tv/playlist.m3u8
+#EXTINF:-1,Пик ТВ HD
+http://live.piktv.cdnvideo.ru/piktv_live/mp4:piktv3pik3tv/playlist.m3u8
+#EXTINF:-1,Продвижение (Омск)
+http://cdn-03.bonus-tv.ru/btv/omsk_prodvizhenie/type/user/devname/LG-SmartTV/devid/LG-1466689845/eol/20200101T0000/hash/cd6b4ce0c2530527fba99c54c8357321d8e08504/playlist.m3u8
+#EXTINF:-1,Просвещение
+http://cdn-01.bonus-tv.ru/btv/prosveschenie/type/user/devname/LG-SmartTV/devid/LG-1466153612/eol/20200101T0000/hash/d377979a39ddf0341bc0e4543c4665bc7c5b0d81/playlist.m3u8
+#EXTINF:-1,Радость Моя
+http://cdn-01.bonus-tv.ru/btv/radostmoya/type/user/devname/LG-SmartTV/devid/LG-1469279137/eol/20200101T0000/hash/5debf0f316b470dad92f42b29d2663c5f707af44/playlist.m3u8
+#EXTINF:-1,Россия 1 HD
+http://cdn-01.bonus-tv.ru/btv/russiahd/type/user/devname/LG-SmartTV/devid/LG-1469703292/eol/20200101T0000/hash/1b7599c0021067fe3590d9ed45db70712b2b1ef8/playlist.m3u8?token=null
+#EXTINF:-1,Русский Иллюзион
+http://cdn-01.bonus-tv.ru/btv/illuzionrus/type/user/devname/LG-SmartTV/devid/LG-1469279316/eol/20200101T0000/hash/2275fdb11a701e4b8f294b8c82685b86d8f5f23d/playlist.m3u8
+#EXTINF:-1,Русский Экстрим
+http://cdn-01.bonus-tv.ru/btv/russkiyextrim/type/user/devname/LG-SmartTV/devid/LG-1469279376/eol/20200101T0000/hash/c2eb79e9fa394373dc84741528d14359c573820f/playlist.m3u8
+#EXTINF:-1,Скат 24
+http://hls.scattv.cdnvideo.ru/scattv2/IP-CDN_Scat24online_hq.sdp/playlist.m3u8
+#EXTINF:-1,Страна FM TV
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1,ТНВ Планета
+http://cdn-10.bonus-tv.ru/tnv/playlist.m3u8
+#EXTINF:-1,ТНТ
+http://cdn-01.bonus-tv.ru/btv/sm-tnt/type/user/devname/LG-SmartTV/devid/LG-1477141994/eol/20200101T0000/hash/ec3a7b7757181408093b5c1ee40a288028a9ba15/playlist.m3u8
+#EXTINF:-1,ТНТ Music
+http://cdn-01.bonus-tv.ru/btv/tntmusic/type/user/devname/LG-SmartTV/devid/LG-1469013493/eol/20200101T0000/hash/31f1cdfc91072d63a48690432c5baf7c6163c352/playlist.m3u8
+#EXTINF:-1,Тамыр
+http://cdn-01.bonus-tv.ru/bst/tamyr/type/user/devname/LG-SmartTV/devid/LG-1469024181/eol/20200101T0000/hash/15ac7aae20a861e7e0984680a998e9299d34f8b5/playlist.m3u8
+#EXTINF:-1,Теледом
+http://cdn-01.bonus-tv.ru/btv/teledom/type/user/devname/LG-SmartTV/devid/LG-1449432412/eol/20200101T000000/hash/e9b84f5441a92e411f81ccb44daebe8a5ae7d16c/playlist.m3u8
+#EXTINF:-1,Точка ТВ
+http://cdn-03.bonus-tv.ru/btv/tochkatv/type/user/devname/LG-SmartTV/devid/LG-1466755238/eol/20200101T0000/hash/633ba69ed269612ab76e3c36001c78bb295e896b/playlist.m3u8
+#EXTINF:-1,Трейлеры Ovideo
+http://cdn-10.bonus-tv.ru/ovideo/playlist.m3u8
+#EXTINF:-1,Тюменское время
+http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
+#EXTINF:-1,Феникс плюс кино
+http://cdn-01.bonus-tv.ru/btv/fenixikino/type/user/devname/LG-SmartTV/devid/LG-1445617990/eol/20200101T000000/hash/6c73af80a8160022573f45223a277bfb59ef2325/playlist.m3u8
+#EXTINF:-1,Шансон
+http://cdn-01.bonus-tv.ru/btv/shansontv/type/user/devname/LG-SmartTV/devid/LG-1467648036/eol/202001T0000/hash/220cee46b26911259727822cd14ba630d9cde1ba/playlist.m3u8
+#EXTINF:-1,=== PEERSTV (OFF) ===
+http://hls2.slynet.pw/slynetfreestartpromo?.m3u8
+#EXTINF:-1,1HD
+http://msk3.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8
+#EXTINF:-1,24 Doc
+http://msk3.peers.tv/streaming/24doc/16/tvrec/playlist.m3u8
+#EXTINF:-1,2x2 +2
+http://msk3.peers.tv/streaming/2x2tv/16/tvrec/playlist.m3u8
+#EXTINF:-1,365
+http://msk3.peers.tv/streaming/365_days/16/tvrec/playlist.m3u8
+#EXTINF:-1,365 Music
+http://msk3.peers.tv/streaming/365music/126/tvrecw/playlist.m3u8
+#EXTINF:-1,43 канал HD
+http://msk3.peers.tv/streaming/43_kanal/126/copy/playlist.m3u8
+#EXTINF:-1,49 канал
+http://msk3.peers.tv/streaming/49kanal/16/tvrec/playlist.m3u8
+#EXTINF:-1,8 Канал (Новосибирск)
+http://msk3.peers.tv/streaming/8_kanal/16/tvrecw/playlist.m3u8
+#EXTINF:-1,8 канал (Красноярск)
+http://msk3.peers.tv/streaming/ya1pm/90/copy/playlist.m3u8
+#EXTINF:-1,A1
+http://msk3.peers.tv/streaming/amedia1/16/tvrecw/playlist.m3u8
+#EXTINF:-1,CNL
+http://msk3.peers.tv/streaming/cnl/126/copy/playlist.m3u8
+#EXTINF:-1,Cartoon Network
+http://msk3.peers.tv/streaming/cartoonnetwork/16/tvrecw/playlist.m3u8
+#EXTINF:-1,Euronews
+http://msk3.peers.tv/streaming/euronews/126/tvrecw/playlist.m3u8
+#EXTINF:-1,FTV
+http://msk3.peers.tv/streaming/fashion/16/tvrec/playlist.m3u8
+#EXTINF:-1,Gamanoid TV
+http://msk3.peers.tv/streaming/gamanoid_tv/126/copy/playlist.m3u8
+#EXTINF:-1,Hope TV
+http://msk3.peers.tv/streaming/hopetv/126/copy/playlist.m3u8
+#EXTINF:-1,Life
+http://msk3.peers.tv/streaming/lifenews/126/tvrecw/playlist.m3u8
+#EXTINF:-1,Music Box
+http://msk3.peers.tv/streaming/musboxtv/16/tvrec/playlist.m3u8
+#EXTINF:-1,Nebiset
+http://msk3.peers.tv/streaming/nebiset/126/tvrec/playlist.m3u8
+#EXTINF:-1,Nickelodeon
+http://msk3.peers.tv/streaming/nickelodeon/126/tvrecw/playlist.m3u8
+#EXTINF:-1,Russian Music Box
+http://msk3.peers.tv/streaming/musboxru/16/tvrec/playlist.m3u8
+#EXTINF:-1,Shop24
+http://msk3.peers.tv/streaming/shop24/126/tvrecw/playlist.m3u8
+#EXTINF:-1,Shopping Live
+http://msk3.peers.tv/streaming/shopping_live/16/tvrecw/playlist.m3u8
+#EXTINF:-1,TVMChannel
+http://msk3.peers.tv/streaming/tvmchannel/126/tvrecw/playlist.m3u8
+#EXTINF:-1,XXI
+http://msk3.peers.tv/streaming/tv21/16/tvrecw/playlist.m3u8
+#EXTINF:-1,Zoo TV
+http://msk3.peers.tv/streaming/zoo_tv/16/tvrecw/playlist.m3u8
+#EXTINF:-1,Zooпарк
+http://msk3.peers.tv/streaming/zoopark/126/tvrec/playlist.m3u8
+#EXTINF:-1,Авто 24
+http://msk3.peers.tv/streaming/avto_24/16/tvrecw/playlist.m3u8
+#EXTINF:-1,Авто плюс
+http://msk3.peers.tv/streaming/auto_plus/16/tvrecw/playlist.m3u8
+#EXTINF:-1,Баланс ТВ
+http://msk3.peers.tv/streaming/balance/126/copy/playlist.m3u8
+#EXTINF:-1,Боец
+http://msk3.peers.tv/streaming/boets/16/tvrecw/playlist.m3u8
+#EXTINF:-1,Бокс ТВ
+http://msk3.peers.tv/streaming/boks_tv/16/tvrecw/playlist.m3u8
+#EXTINF:-1,Вместе РФ
+http://msk3.peers.tv/streaming/vmeste_rf/126/tvrecw/playlist.m3u8
+#EXTINF:-1,Война и Мир
+http://msk3.peers.tv/streaming/wap/126/copy/playlist.m3u8
+#EXTINF:-1,Горная страна (Таштагол)
+http://msk3.peers.tv/streaming/gornaya_strana/16/copy/playlist.m3u8
+#EXTINF:-1,Детский
+http://msk3.peers.tv/streaming/forkids/16/tvrec/playlist.m3u8
+#EXTINF:-1,Дисней +4
+http://msk3.peers.tv/streaming/disney/16/tvrec/playlist.m3u8
+#EXTINF:-1,Дождь
+http://msk3.peers.tv/streaming/rain/16/tvrecw/playlist.m3u8
+#EXTINF:-1,Домашний
+http://msk3.peers.tv/streaming/domashny/126/tvrec/playlist.m3u8
+#EXTINF:-1,Домашний (Новосибирск)
+http://msk3.peers.tv/streaming/domashny/16/tvrec/playlist.m3u8
+#EXTINF:-1,Евпатория ТВ
+http://msk3.peers.tv/streaming/evpatorija/126/tvrec/playlist.m3u8
+#EXTINF:-1,Еврокино
+http://msk3.peers.tv/streaming/eurokino/16/tvrec/playlist.m3u8
+#EXTINF:-1,Живи
+http://msk3.peers.tv/streaming/jv/16/tvrecw/playlist.m3u8
+#EXTINF:-1,Загородная жизнь
+http://msk3.peers.tv/streaming/zagorod_zh/16/tvrec/playlist.m3u8
+#EXTINF:-1,Звезда
+http://msk3.peers.tv/streaming/zvezda/126/tvrecw/playlist.m3u8
+#EXTINF:-1,Звезда (Новосибирск)
+http://msk3.peers.tv/streaming/zvezda/16/tvrecw/playlist.m3u8
+#EXTINF:-1,Иллюзион+
+http://msk3.peers.tv/streaming/illyuzion/16/tvrec/playlist.m3u8
+#EXTINF:-1,Карусель +3
+http://msk3.peers.tv/streaming/karusel/16/tvrec/playlist.m3u8
+#EXTINF:-1,Киномикс
+http://msk3.peers.tv/streaming/ntv_kino_plyus/16/tvrec/playlist.m3u8
+#EXTINF:-1,Красная Линия
+http://msk3.peers.tv/streaming/red_line/126/copy/playlist.m3u8
+#EXTINF:-1,Крик ТВ
+http://msk3.peers.tv/streaming/krik_tv/16/tvrec/playlist.m3u8
+#EXTINF:-1,Кубань 24 ОРБИТА
+http://msk3.peers.tv/streaming/kuban24/126/copy/playlist.m3u8
+#EXTINF:-1,Кухня ТВ
+http://msk3.peers.tv/streaming/kitchentv/16/tvrec/playlist.m3u8
+#EXTINF:-1,ЛДПР ТВ
+http://msk3.peers.tv/streaming/ldpr_tv/16/tvrec/playlist.m3u8
+#EXTINF:-1,Мама
+http://msk3.peers.tv/streaming/motherchi/16/tvrec/playlist.m3u8
+#EXTINF:-1,Матч ТВ
+http://msk3.peers.tv/streaming/sport/16/vh1w/playlist.m3u8
+#EXTINF:-1,Матч! Арена
+http://msk3.peers.tv/streaming/sport1/16/tvrecw/playlist.m3u8
+#EXTINF:-1,Мир +3
+http://msk3.peers.tv/streaming/mir/16/tvrecw/playlist.m3u8
+#EXTINF:-1,Мир 24
+http://msk3.peers.tv/streaming/mir24/16/tvrecw/playlist.m3u8
+#EXTINF:-1,Московский Образовательный
+http://msk3.peers.tv/streaming/dogm/126/tvrecw/playlist.m3u8
+#EXTINF:-1,Мужской
+http://msk3.peers.tv/streaming/muzhskoj/126/tvrec/playlist.m3u8
+#EXTINF:-1,Мульт
+http://msk3.peers.tv/streaming/mult/16/tvrec/playlist.m3u8
+#EXTINF:-1,Мультимания
+http://msk3.peers.tv/streaming/multimania/16/tvrec/playlist.m3u8
+#EXTINF:-1,НСТ
+http://msk3.peers.tv/streaming/nstv/16/tvrec/playlist.m3u8
+#EXTINF:-1,НТВ +4
+http://msk3.peers.tv/streaming/ntv/16/tvrec/playlist.m3u8
+#EXTINF:-1,Наш Футбол
+http://msk3.peers.tv/streaming/nash_futbol/16/tvrec/playlist.m3u8
+#EXTINF:-1,Наша Сибирь
+http://msk3.peers.tv/streaming/nasha_sibir_hd/16/copy/playlist.m3u8
+#EXTINF:-1,Новое телевидение
+http://msk3.peers.tv/streaming/novoe_televidenie/318/tvrecw/playlist.m3u8
+#EXTINF:-1,ОТР
+http://msk3.peers.tv/streaming/otvrus/16/tvrecw/playlist.m3u8
+#EXTINF:-1,ОТС
+http://msk3.peers.tv/streaming/ots/16/tvrec/playlist.m3u8
+#EXTINF:-1,Охотник и Рыболов
+http://msk3.peers.tv/streaming/ohotnik_i_rybolov/16/tvrecw/playlist.m3u8
+#EXTINF:-1,Парк развлечений
+http://msk3.peers.tv/streaming/ipark/16/tvrec/playlist.m3u8
+#EXTINF:-1,Первый HD
+http://msk3.peers.tv/streaming/1kanal/126/tvrecw/playlist.m3u8
+#EXTINF:-1,Первый +4
+http://msk3.peers.tv/streaming/1kanal/16/tvrec/playlist.m3u8
+#EXTINF:-1,Первый образовательный
+http://msk3.peers.tv/streaming/1_obraz/16/tvrec/playlist.m3u8
+#EXTINF:-1,Пик ТВ HD
+http://msk3.peers.tv/streaming/pik/126/copy/playlist.m3u8
+#EXTINF:-1,Планета HD
+http://msk3.peers.tv/streaming/iq_hd/16/tvrecw/playlist.m3u8
+#EXTINF:-1,Пятница +4
+http://msk3.peers.tv/streaming/friday/16/tvrec/playlist.m3u8
+#EXTINF:-1,Пятый канал
+http://msk3.peers.tv/streaming/5kanal/126/tvrec/playlist.m3u8
+#EXTINF:-1,Пятый канал +4
+http://msk3.peers.tv/streaming/5kanal/16/tvrec/playlist.m3u8
+#EXTINF:-1,РБК (Новосибирск)
+http://msk3.peers.tv/streaming/rbk/16/tvrecw/playlist.m3u8
+#EXTINF:-1,Рен
+http://msk3.peers.tv/streaming/rentv/126/tvrecw/playlist.m3u8
+#EXTINF:-1,Рен +4
+http://msk3.peers.tv/streaming/rentv/16/tvrec/playlist.m3u8
+#EXTINF:-1,Россия 1
+http://msk3.peers.tv/streaming/rossija/126/tvrec/playlist.m3u8
+#EXTINF:-1,Россия 1 +4
+http://msk3.peers.tv/streaming/rossija/16/tvrec/playlist.m3u8
+#EXTINF:-1,Россия 24
+http://msk3.peers.tv/streaming/vesti/126/tvrecw/playlist.m3u8
+#EXTINF:-1,Россия 24 (Новосибирск)
+http://msk3.peers.tv/streaming/vesti/16/tvrecw/playlist.m3u8
+#EXTINF:-1,Россия К
+http://msk3.peers.tv/streaming/kultura/126/tvrec/playlist.m3u8
+#EXTINF:-1,Россия К +4
+http://msk3.peers.tv/streaming/kultura/16/tvrec/playlist.m3u8
+#EXTINF:-1,Русский Иллюзион
+http://msk3.peers.tv/streaming/russian_illusion/16/tvrec/playlist.m3u8
+#EXTINF:-1,Русский Роман
+http://msk3.peers.tv/streaming/russian_roman/16/tvrec/playlist.m3u8
+#EXTINF:-1,Рыжий
+http://msk3.peers.tv/streaming/red/16/tvrecw/playlist.m3u8
+#EXTINF:-1,СТРК HD
+http://msk3.peers.tv/streaming/strk/126/copy/playlist.m3u8
+#EXTINF:-1,СТС Мир
+http://msk3.peers.tv/streaming/sts/16/tvrec/playlist.m3u8
+#EXTINF:-1,Сделано в Кузбассе HD
+http://msk3.peers.tv/streaming/sdelano_v_kuzbasse_hd/16/copy/playlist.m3u8
+#EXTINF:-1,Смайлик ТВ
+http://msk3.peers.tv/streaming/smayliktv/126/vm2w/playlist.m3u8
+#EXTINF:-1,ТБН
+http://msk3.peers.tv/streaming/tbn/126/tvrecw/playlist.m3u8
+#EXTINF:-1,ТВ-ТРЕЙЛЕР
+http://msk3.peers.tv/streaming/tvtrailer/16/tvrec/playlist.m3u8
+#EXTINF:-1,ТВ3
+http://msk3.peers.tv/streaming/tv3/126/tvrec/playlist.m3u8
+#EXTINF:-1,ТВ3 +4
+http://msk3.peers.tv/streaming/tv3/16/tvrec/playlist.m3u8
+#EXTINF:-1,ТВЦ
+http://msk3.peers.tv/streaming/tvc/126/tvrecw/playlist.m3u8
+#EXTINF:-1,ТВЦ +4
+http://msk3.peers.tv/streaming/tvc/16/tvrecw/playlist.m3u8
+#EXTINF:-1,ТМВ ru
+http://msk3.peers.tv/streaming/tmb_ru/16/tvrecw/playlist.m3u8
+#EXTINF:-1,ТНТ
+http://msk3.peers.tv/streaming/tnt/126/tvrec/playlist.m3u8
+#EXTINF:-1,ТНТ +4
+http://msk3.peers.tv/streaming/tnt/16/tvrec/playlist.m3u8
+#EXTINF:-1,ТНТ Music
+http://msk3.peers.tv/streaming/tnt_music/126/tvrec/playlist.m3u8
+#EXTINF:-1,Телепутешествия
+http://msk3.peers.tv/streaming/teleputeshestviya/16/tvrecw/playlist.m3u8
+#EXTINF:-1,Техно 24
+http://msk3.peers.tv/streaming/24techno/16/tvrec/playlist.m3u8
+#EXTINF:-1,Туапсе 24
+http://msk3.peers.tv/streaming/tuapse24/126/vm2w/playlist.m3u8
+#EXTINF:-1,Успех
+http://msk3.peers.tv/streaming/uspex/16/tvrec/playlist.m3u8
+#EXTINF:-1,Футбол
+http://msk3.peers.tv/streaming/futbol/16/tvrec/playlist.m3u8
+#EXTINF:-1,Хамелеон ТВ
+http://msk3.peers.tv/streaming/hameleon_tv/126/tvrecw/playlist.m3u8
+#EXTINF:-1,Центральное ТВ
+http://msk3.peers.tv/streaming/tvc_ctv/126/tvrecw/playlist.m3u8
+#EXTINF:-1,Че +2
+http://msk3.peers.tv/streaming/perec/16/tvrec/playlist.m3u8
+#EXTINF:-1,Ю
+http://msk3.peers.tv/streaming/utv/16/tvrec/playlist.m3u8
+#EXTINF:-1,Юмор Box
+http://msk3.peers.tv/streaming/yumor_tv/16/tvrec/playlist.m3u8
+#EXTINF:-1,=== ИНФОРМАЦИЯ ===
+http://hls2.slynet.pw/slynetfreestartpromo?.m3u8
+#EXTINF:-1,=== sly & oknijb234 for 4pda
+http://hls2.slynet.pw/slynetfreestartpromo?.m3u8
+#EXTINF:-1,= Наша группа ВКонтакте http://vk.com/clubSlyNet
+http://hls2.slynet.pw/slynetfreestartpromo?.m3u8
