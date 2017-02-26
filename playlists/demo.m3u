@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,BeachCam -South Carolina
 http://video3.earthcam.com/fecnetwork/3635.flv/HasBahCa.m3u8
-#EXTINF:-1,Bourbon Street -Louisiana
-http://video3.earthcam.com/fecnetwork/4280.flv/HasBahCa.m3u8
 #EXTINF:-1,Broadway
 http://video3.earthcam.com/fecnetwork/hdtimes10.flv/HasBahCa.m3u8
 #EXTINF:-1,Crossroads
