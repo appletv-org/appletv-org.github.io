@@ -1,607 +1,621 @@
 #EXTM3U
-#EXTINF:0,РБК-ТВ
-#EXTGRP:новости
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/106/index.m3u8
-#EXTINF:0,Пятый Канал
-#EXTGRP:новости
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/112/index.m3u8
-#EXTINF:0,Россия-24
-#EXTGRP:новости
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/507/index.m3u8
-#EXTINF:0,Life News
-#EXTGRP:новости
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/518/index.m3u8
-#EXTINF:0,Москва 24
-#EXTGRP:новости
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/523/index.m3u8
-#EXTINF:0,Bloomberg
-#EXTGRP:новости
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/540/index.m3u8
-#EXTINF:0,BBC World News
-#EXTGRP:новости
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/545/index.m3u8
-#EXTINF:0,TV 1000 Русское кино
-#EXTGRP:кино
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/101/index.m3u8
-#EXTINF:0,Ностальгия
-#EXTGRP:кино
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/102/index.m3u8
-#EXTINF:0,СТС Love
-#EXTGRP:кино
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/103/index.m3u8
-#EXTINF:0,Sony Sci-Fi
-#EXTGRP:кино
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/110/index.m3u8
-#EXTINF:0,КИНОМИКС
-#EXTGRP:кино
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/509/index.m3u8
-#EXTINF:0,КИНОСЕМЬЯ
-#EXTGRP:кино
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/125/index.m3u8
-#EXTINF:0,РОДНОЕ КИНО
-#EXTGRP:кино
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/126/index.m3u8
-#EXTINF:0,TV 1000 Action
-#EXTGRP:кино
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/131/index.m3u8
-#EXTINF:0,Кинохит
-#EXTGRP:кино
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/516/index.m3u8
-#EXTINF:0,Amedia 2
-#EXTGRP:кино
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/510/index.m3u8
-#EXTINF:0,Наше новое кино
-#EXTGRP:кино
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/517/index.m3u8
-#EXTINF:0,TV XXI
-#EXTGRP:кино
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/525/index.m3u8
-#EXTINF:0,CBS Drama
-#EXTGRP:кино
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/542/index.m3u8
-#EXTINF:0,КИНОКОМЕДИЯ
-#EXTGRP:кино
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/145/index.m3u8
-#EXTINF:0,ИНДИЙСКОЕ КИНО
-#EXTGRP:кино
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/146/index.m3u8
-#EXTINF:0,КИНОСЕРИЯ
-#EXTGRP:кино
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/148/index.m3u8
-#EXTINF:0,Русский Иллюзион
-#EXTGRP:кино
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/547/index.m3u8
-#EXTINF:0,Иллюзион +
-#EXTGRP:кино
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/548/index.m3u8
-#EXTINF:0,Еврокино
-#EXTGRP:кино
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/549/index.m3u8
-#EXTINF:0,Fox Russia
-#EXTGRP:кино
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/550/index.m3u8
-#EXTINF:0,Fox Life
-#EXTGRP:кино
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/553/index.m3u8
-#EXTINF:0,Дом Кино
-#EXTGRP:кино
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/154/index.m3u8
-#EXTINF:0,Amedia 1
-#EXTGRP:кино
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/554/index.m3u8
-#EXTINF:0,Amedia Premium HD
-#EXTGRP:кино
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/555/index.m3u8
-#EXTINF:0,AMEDIA HIT
-#EXTGRP:кино
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/556/index.m3u8
-#EXTINF:0,TV 1000
-#EXTGRP:кино
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/132/index.m3u8
-#EXTINF:0,МУЖСКОЕ КИНО
-#EXTGRP:кино
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/164/index.m3u8
-#EXTINF:0,AMC
-#EXTGRP:кино
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/557/index.m3u8
-#EXTINF:0,Sony Entertainment Television
-#EXTGRP:кино
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/559/index.m3u8
-#EXTINF:0,2X2
-#EXTGRP:кино
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/702/index.m3u8
-#EXTINF:0,Sony Turbo
-#EXTGRP:кино
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/708/index.m3u8
-#EXTINF:0,Русский бестселлер
-#EXTGRP:кино
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/905/index.m3u8
-#EXTINF:0,Русский роман
-#EXTGRP:кино
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/906/index.m3u8
-#EXTINF:0,Русский детектив
-#EXTGRP:кино
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/907/index.m3u8
-#EXTINF:0,Europa Plus TV
-#EXTGRP:музыка
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/115/index.m3u8
-#EXTINF:0,МУЗ
-#EXTGRP:музыка
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/116/index.m3u8
-#EXTINF:0,RUSONG TV
-#EXTGRP:музыка
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/120/index.m3u8
-#EXTINF:0,Bridge TV
-#EXTGRP:музыка
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/122/index.m3u8
-#EXTINF:0,MTV
-#EXTGRP:музыка
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/142/index.m3u8
-#EXTINF:0,MTV Hits
-#EXTGRP:музыка
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/153/index.m3u8
-#EXTINF:0,Музыка
-#EXTGRP:музыка
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/155/index.m3u8
-#EXTINF:0,VH1 European
-#EXTGRP:музыка
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/536/index.m3u8
-#EXTINF:0,MTV Dance
-#EXTGRP:музыка
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/558/index.m3u8
-#EXTINF:0,Mezzo
-#EXTGRP:музыка
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/707/index.m3u8
-#EXTINF:0,История
-#EXTGRP:познавательные
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/111/index.m3u8
-#EXTINF:0,Моя Планета
-#EXTGRP:познавательные
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/117/index.m3u8
-#EXTINF:0,Наука 2.0
-#EXTGRP:познавательные
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/118/index.m3u8
-#EXTINF:0,Outdoor Channel
-#EXTGRP:познавательные
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/119/index.m3u8
-#EXTINF:0,Сов. Секретно
-#EXTGRP:познавательные
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/121/index.m3u8
-#EXTINF:0,Россия-Культура
-#EXTGRP:познавательные
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/505/index.m3u8
-#EXTINF:0,24 ДОК
-#EXTGRP:познавательные
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/512/index.m3u8
-#EXTINF:0,Авто 24
-#EXTGRP:познавательные
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/538/index.m3u8
-#EXTINF:0,Nat Geo Wild
-#EXTGRP:познавательные
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/133/index.m3u8
-#EXTINF:0,nat geographic
-#EXTGRP:познавательные
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/134/index.m3u8
-#EXTINF:0,DTX
-#EXTGRP:познавательные
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/135/index.m3u8
-#EXTINF:0,Discovery Science
-#EXTGRP:познавательные
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/136/index.m3u8
-#EXTINF:0,Animal Planet
-#EXTGRP:познавательные
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/137/index.m3u8
-#EXTINF:0,ID Xtra
-#EXTGRP:познавательные
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/139/index.m3u8
-#EXTINF:0,Discovery Channel
-#EXTGRP:познавательные
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/140/index.m3u8
-#EXTINF:0,Авто Плюс
-#EXTGRP:познавательные
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/151/index.m3u8
-#EXTINF:0,Кухня ТВ
-#EXTGRP:познавательные
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/152/index.m3u8
-#EXTINF:0,Время
-#EXTGRP:познавательные
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/552/index.m3u8
-#EXTINF:0,Домашние Животные
-#EXTGRP:познавательные
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/158/index.m3u8
-#EXTINF:0,Охота и Рыбалка
-#EXTGRP:познавательные
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/159/index.m3u8
-#EXTINF:0,Надежда
-#EXTGRP:познавательные
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/656/index.m3u8
-#EXTINF:0,Viasat Nature
-#EXTGRP:познавательные
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/161/index.m3u8
-#EXTINF:0,Viasat History
-#EXTGRP:познавательные
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/162/index.m3u8
-#EXTINF:0,Viasat Explore
-#EXTGRP:познавательные
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/163/index.m3u8
-#EXTINF:0,Travel Channel
-#EXTGRP:познавательные
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/130/index.m3u8
-#EXTINF:0,Первый образовательный
-#EXTGRP:познавательные
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/701/index.m3u8
-#EXTINF:0,OCEAN-TV
-#EXTGRP:познавательные
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/703/index.m3u8
-#EXTINF:0,Tiji TV
-#EXTGRP:детские
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/108/index.m3u8
-#EXTINF:0,Gulli
-#EXTGRP:детские
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/109/index.m3u8
-#EXTINF:0,Nick Jr
-#EXTGRP:детские
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/114/index.m3u8
-#EXTINF:0,Nickelodeon
-#EXTGRP:детские
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/541/index.m3u8
-#EXTINF:0,Disney
-#EXTGRP:детские
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/524/index.m3u8
-#EXTINF:0,Детский мир
-#EXTGRP:детские
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/543/index.m3u8
-#EXTINF:0,Jim Jam
-#EXTGRP:детские
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/138/index.m3u8
-#EXTINF:0,Cartoon Network
-#EXTGRP:детские
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/143/index.m3u8
-#EXTINF:0,Карусель
-#EXTGRP:детские
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/156/index.m3u8
-#EXTINF:0,Ani
-#EXTGRP:детские
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/129/index.m3u8
-#EXTINF:0,Мульт
-#EXTGRP:детские
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/909/index.m3u8
-#EXTINF:0,ТНТ4
-#EXTGRP:развлекательные
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/104/index.m3u8
-#EXTINF:0,STV
-#EXTGRP:развлекательные
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/105/index.m3u8
-#EXTINF:0,Paramount Comedy Russia
-#EXTGRP:развлекательные
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/157/index.m3u8
-#EXTINF:0,Мир
-#EXTGRP:другие
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/113/index.m3u8
-#EXTINF:0,НТВ
-#EXTGRP:другие
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/501/index.m3u8
-#EXTINF:0,ТНТ
-#EXTGRP:другие
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/502/index.m3u8
-#EXTINF:0,Пятница
-#EXTGRP:другие
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/503/index.m3u8
-#EXTINF:0,Телеканал «Россия»
-#EXTGRP:другие
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/504/index.m3u8
-#EXTINF:0,СТС
-#EXTGRP:другие
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/506/index.m3u8
-#EXTINF:0,ТВ3
-#EXTGRP:другие
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/508/index.m3u8
-#EXTINF:0,Первый канал
-#EXTGRP:другие
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/127/index.m3u8
-#EXTINF:0,РЕН ТВ
-#EXTGRP:другие
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/128/index.m3u8
-#EXTINF:0,Че
-#EXTGRP:другие
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/513/index.m3u8
-#EXTINF:0,Домашний
-#EXTGRP:другие
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/514/index.m3u8
-#EXTINF:0,ТНВ-Планета
-#EXTGRP:другие
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/515/index.m3u8
-#EXTINF:0,ТВЦ
-#EXTGRP:другие
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/520/index.m3u8
-#EXTINF:0,Телеканал Да Винчи
-#EXTGRP:другие
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/537/index.m3u8
-#EXTINF:0,Телеканал Звезда
-#EXTGRP:другие
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/544/index.m3u8
-#EXTINF:0,Ю ТВ
-#EXTGRP:другие
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/534/index.m3u8
-#EXTINF:0,КВН ТВ
-#EXTGRP:другие
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/546/index.m3u8
-#EXTINF:0,Мама
-#EXTGRP:другие
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/704/index.m3u8
-#EXTINF:0,ОТР
-#EXTGRP:другие
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/705/index.m3u8
-#EXTINF:0,CBS Reality
-#EXTGRP:другие
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/706/index.m3u8
-#EXTINF:0,Матч! Наш спорт
-#EXTGRP:спорт
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/107/index.m3u8
-#EXTINF:0,Матч! Планета
-#EXTGRP:спорт
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/123/index.m3u8
-#EXTINF:0,Матч! Футбол 1
-#EXTGRP:спорт
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/124/index.m3u8
-#EXTINF:0,Наш футбол
-#EXTGRP:спорт
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/531/index.m3u8
-#EXTINF:0,KHL
-#EXTGRP:спорт
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/519/index.m3u8
-#EXTINF:0,Матч! Футбол 3
-#EXTGRP:спорт
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/522/index.m3u8
-#EXTINF:0,Eurosport 2
-#EXTGRP:спорт
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/539/index.m3u8
-#EXTINF:0,Матч! Арена
-#EXTGRP:спорт
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/528/index.m3u8
-#EXTINF:0,Матч! Игра
-#EXTGRP:спорт
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/529/index.m3u8
-#EXTINF:0,Матч! Футбол 2
-#EXTGRP:спорт
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/530/index.m3u8
-#EXTINF:0,Матч ТВ
-#EXTGRP:спорт
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/535/index.m3u8
-#EXTINF:0,Eurosport 1
-#EXTGRP:спорт
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/141/index.m3u8
-#EXTINF:0,Extreme Sports
-#EXTGRP:спорт
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/144/index.m3u8
-#EXTINF:0,Матч! Боец
-#EXTGRP:спорт
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/150/index.m3u8
-#EXTINF:0,Viasat Sport
-#EXTGRP:спорт
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/160/index.m3u8
-#EXTINF:0,Русский Экстрим
-#EXTGRP:спорт
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/700/index.m3u8
-#EXTINF:0,Первый HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/204/index.m3u8
-#EXTINF:0,TV1000 Premium HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/202/index.m3u8
-#EXTINF:0,TV1000 Comedy HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/200/index.m3u8
-#EXTINF:0,TV1000 Megahit HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/201/index.m3u8
-#EXTINF:0,Viasat Nature/History HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/203/index.m3u8
-#EXTINF:0,Россия HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/205/index.m3u8
-#EXTINF:0,Матч! Футбол 3 HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/206/index.m3u8
-#EXTINF:0,Матч! Арена HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/207/index.m3u8
-#EXTINF:0,Viasat Sport HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/208/index.m3u8
-#EXTINF:0,MGM HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/209/index.m3u8
-#EXTINF:0,RTG HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/210/index.m3u8
-#EXTINF:0,Матч! Футбол 2 HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/211/index.m3u8
-#EXTINF:0,Матч! HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/212/index.m3u8
-#EXTINF:0,НТВ HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/213/index.m3u8
-#EXTINF:0,Конный Мир HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/214/index.m3u8
-#EXTINF:0,Телеканал КХЛ HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/215/index.m3u8
-#EXTINF:0,Nat Geo Wild HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/216/index.m3u8
-#EXTINF:0,Mezzo Live HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/217/index.m3u8
-#EXTINF:0,Animal Planet HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/218/index.m3u8
-#EXTINF:0,Fox HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/219/index.m3u8
-#EXTINF:0,Наш футбол HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/220/index.m3u8
-#EXTINF:0,MTV Live HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/221/index.m3u8
-#EXTINF:0,Матч! Футбол 1 HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/222/index.m3u8
-#EXTINF:0,Nickelodeon HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/223/index.m3u8
-#EXTINF:0,КИНОПРЕМЬЕРА HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/224/index.m3u8
-#EXTINF:0,Матч! Игра HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/225/index.m3u8
-#EXTINF:0,HD Life
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/226/index.m3u8
-#EXTINF:0,Discovery Channel HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/227/index.m3u8
-#EXTINF:0,Eurosport 1 HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/228/index.m3u8
-#EXTINF:0,Amedia Premium HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/229/index.m3u8
-#EXTINF:0,National Geographic HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/230/index.m3u8
-#EXTINF:0,History HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/231/index.m3u8
-#EXTINF:0,TLC HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/232/index.m3u8
-#EXTINF:0,Travel Channel HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/233/index.m3u8
-#EXTINF:0,Trace Sport Stars HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/234/index.m3u8
-#EXTINF:0,Trace Urban HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/235/index.m3u8
-#EXTINF:0,Остросюжетное HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/904/index.m3u8
-#EXTINF:0,Travel+Adventure HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/908/index.m3u8
-#EXTINF:0,Дом Кино Премиум HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/911/index.m3u8
-#EXTINF:0,Кинопоказ HD-1
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/913/index.m3u8
-#EXTINF:0,Кинопоказ HD-2
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/912/index.m3u8
-#EXTINF:0,Наш Кинороман HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/914/index.m3u8
-#EXTINF:0,Наш Детектив HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/915/index.m3u8
-#EXTINF:0,Охотник и рыболов HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/917/index.m3u8
-#EXTINF:0,Еда HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/918/index.m3u8
-#EXTINF:0,Fox Life HD
-#EXTGRP:HD
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/920/index.m3u8
-#EXTINF:0,Эгоист
-#EXTGRP:взрослые
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/526/index.m3u8
-#EXTINF:0,Playboy
-#EXTGRP:взрослые
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/527/index.m3u8
-#EXTINF:0,Русская Ночь
-#EXTGRP:взрослые
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/147/index.m3u8
-#EXTINF:0,Brazzers TV Europe
-#EXTGRP:взрослые
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/910/index.m3u8
-#EXTINF:0,Искушение HD
-#EXTGRP:взрослые
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/919/index.m3u8
-#EXTINF:0,Հ1
-#EXTGRP:Հայկական
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/601/index.m3u8
-#EXTINF:0,Դար 21
-#EXTGRP:Հայկական
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/602/index.m3u8
-#EXTINF:0,Հ2
-#EXTGRP:Հայկական
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/603/index.m3u8
-#EXTINF:0,Շանթ
-#EXTGRP:Հայկական
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/604/index.m3u8
-#EXTINF:0,Արմենիա Tv HD
-#EXTGRP:Հայկական
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/605/index.m3u8
-#EXTINF:0,Կենտրոն
-#EXTGRP:Հայկական
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/606/index.m3u8
-#EXTINF:0,Երկիր մեդիա
-#EXTGRP:Հայկական
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/608/index.m3u8
-#EXTINF:0,ATV
-#EXTGRP:Հայկական
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/609/index.m3u8
-#EXTINF:0,Ար
-#EXTGRP:Հայկական
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/610/index.m3u8
-#EXTINF:0,Արմնյուզ
-#EXTGRP:Հայկական
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/611/index.m3u8
-#EXTINF:0,Հ3
-#EXTGRP:Հայկական
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/612/index.m3u8
-#EXTINF:0,Շողակաթ
-#EXTGRP:Հայկական
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/613/index.m3u8
-#EXTINF:0,Արմենիա Tv
-#EXTGRP:Հայկական
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/614/index.m3u8
-#EXTINF:0,MTV.AM HD
-#EXTGRP:Հայկական
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/616/index.m3u8
-#EXTINF:0,MTV.AM
-#EXTGRP:Հայկական
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/617/index.m3u8
-#EXTINF:0,PanArmenian
-#EXTGRP:Հայկական
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/618/index.m3u8
-#EXTINF:0,Ararat
-#EXTGRP:Հայկական
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/620/index.m3u8
-#EXTINF:0,Toot
-#EXTGRP:Հայկական
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/628/index.m3u8
-#EXTINF:0,5 канал (Украина)
-#EXTGRP:українські
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/532/index.m3u8
-#EXTINF:0,HTH
-#EXTGRP:українські
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/533/index.m3u8
-#EXTINF:0,E!
-#EXTGRP:USA
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/901/index.m3u8
-#EXTINF:0,Food Network
-#EXTGRP:USA
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/902/index.m3u8
-#EXTINF:0,Freeform
-#EXTGRP:USA
-http://alevko.iptvspy.ru/iptv/BYRB66FU3T4UZP/903/index.m3u8
+EXTINF:-1,ALASKA CAM
+http://iphone-streaming.ustream.tv/uhls/18105029/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,AMSTERDAM
+rtmp://srv13.arkasis.nl:80/741/default.stream
+#EXTINF:-1,ARNHEM
+rtsp://streaming5.webcam.nl/live/A325.stream
+#EXTINF:-1,Achensee - Christlum
+rtmp://stream.livespotting.tv/windit-edge/vv148_720p.stream
+#EXTINF:-1,Andrychów basen otwarty
+rtmp://ls1.webcamera.pl/basen_cam_f93e66/basen_cam_f93e66.stream
+#EXTINF:-1,Andrychów na żywo
+rtmp://ls1.webcamera.pl/andrychow_cam_3aad9b/andrychow_cam_3aad9b.stream
+#EXTINF:-1,Augsburg - Hotel Augusta
+rtmp://stream.livespotting.tv/windit-edge/vv73_720p.stream
+#EXTINF:-1,Augsburg - Königsplatz
+rtmp://stream.livespotting.tv/windit-edge/vv39_450p.stream
+#EXTINF:-1,BERDYANSK UKRAINE
+http://iphone-streaming.ustream.tv/uhls/18795832/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Bad Brückenau - Kurverwaltung Bad Brückenau
+rtmp://stream.livespotting.tv/windit-edge/vv140_720p.stream
+#EXTINF:-1,Baden-Baden - Hotel Magnetberg
+rtmp://stream.livespotting.tv/windit-edge/vv124_720p.stream
+#EXTINF:-1,Bamberg - Klein Venedig
+rtmp://stream.livespotting.tv/windit-edge/vv79_720p.stream
+#EXTINF:-1,Banja Luka (Босния и Герцеговина) 1
+http://edith03.blictv.blic.net:1935/live/ngrp:kamera02.stream_all/chunklist.m3u8
+#EXTINF:-1,Banja Luka (Босния и Герцеговина) 2
+http://edith03.blictv.blic.net:1935/live/ngrp:kamera01.stream_all/chunklist.m3u8
+#EXTINF:-1,Bayreuth - Neues Rathaus
+rtmp://stream.livespotting.tv/windit-edge/vv107_720p.stream
+#EXTINF:-1,BeachCam -South Carolina
+http://video3.earthcam.com/fecnetwork/3635.flv/HasBahCa.m3u8
+#EXTINF:-1,Berlin - 40 Seconds
+rtmp://stream.livespotting.tv/windit-edge/vv131_720p.stream
+#EXTINF:-1,Berlin - Restaurant Hugos/Hotel InterContinental
+rtmp://stream.livespotting.tv/windit-edge/vv133_720p.stream
+#EXTINF:-1,Bielefeld - Stadthalle
+rtmp://stream.livespotting.tv/windit-edge/vv86_720p.stream
+#EXTINF:-1,Binz - HOTEL AM MEER & SPA
+rtmp://stream.livespotting.tv/windit-edge/vv103_720p.stream
+#EXTINF:-1,Biscayne Bay -Florida
+http://video3.earthcam.com/fecnetwork/miamivishd4.flv/HasBahCa.m3u8
+#EXTINF:-1,Bonn - Hausverwaltung Uwe Brodesser
+rtmp://stream.livespotting.tv/windit-edge/vv114_720p.stream
+#EXTINF:-1,Bourbon Street -Louisiana
+http://video3.earthcam.com/fecnetwork/4280.flv/HasBahCa.m3u8
+#EXTINF:-1,Bremen - Kontorhaus
+rtmp://stream.livespotting.tv/windit-edge/vv134_720p.stream
+#EXTINF:-1,Bremerhaven - Hotel Atlantic Sail City
+rtmp://stream.livespotting.tv/windit-edge/vv106_720p.stream
+#EXTINF:-1,Broadway
+http://video3.earthcam.com/fecnetwork/hdtimes10.flv/HasBahCa.m3u8
+#EXTINF:-1,Brooklyn Bridge
+http://video3.earthcam.com/fecnetwork/3983.flv/HasBahCa.m3u8
+#EXTINF:-1,Brunsbüttel - Schleuse
+rtmp://stream.livespotting.tv/windit-edge/vv37_720p.stream
+#EXTINF:-1,Bulgaria - Blagoevgrad
+rtsp://91.191.213.56:554/live_mpeg4.sdp
+#EXTINF:-1,Bulgaria - Harmanli
+rtsp://93.183.167.17:554/live/ch00_0
+#EXTINF:-1,Bulgaria Blagoevgrad South-West University
+rtsp://91.191.213.57:554/live_mpeg4.sdp
+#EXTINF:-1,Bulgaria Blagoevgrad Square Vasil Levski
+rtsp://91.191.213.56:554/live_mpeg4.sdp
+#EXTINF:-1,Bulgaria Kiten
+rtsp://84.54.158.18:554/live/ch00_0
+#EXTINF:-1,Bulgaria Plovdiv jk Karshiaka blvd. Bulgaria street
+rtsp://91.191.213.54:554/live_mpeg4.sdp
+#EXTINF:-1,Bulgaria Plozhdiv jk Hr Botev street Komatevsko road
+rtsp://91.191.213.52:554/live_mpeg4.sdp
+#EXTINF:-1,Bulgaria Sofia Mladostbul Tsarigradsko Shosse
+rtsp://91.191.213.42:554/live_mpeg4.sdp
+#EXTINF:-1,Bulgaria Sofia street Ring Road
+rtsp://91.191.213.43:554/live_mpeg4.sdp
+#EXTINF:-1,Bulgaria Varna
+rtsp://91.191.213.48:554/live_mpeg4.sdp
+#EXTINF:-1,Bulgaria Varna center
+rtsp://91.191.213.49:554/live_mpeg4.sdp
+#EXTINF:-1,Büsum - Familienlagune
+rtmp://stream.livespotting.tv/windit-edge/vv42_720p.stream
+#EXTINF:-1,Büsum - Hauptstrand
+rtmp://stream.livespotting.tv/windit-edge/vv32_720p.stream
+#EXTINF:-1,Büsum - Museumshafen
+rtmp://stream.livespotting.tv/windit-edge/vv33_720p.stream
+#EXTINF:-1,CAM 1
+rtsp://85.25.218.202:1935/live/mp4:n31-cam1.stream
+#EXTINF:-1,CAM 500
+rtmp://srv13.arkasis.nl:80/500/default.stream
+#EXTINF:-1,CAPTAIN CA USA
+http://iphone-streaming.ustream.tv/uhls/10401472/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,CHIBA JAPAN
+http://iphone-streaming.ustream.tv/uhls/11865965/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,CHIBA JAPAN AIRPORT
+http://iphone-streaming.ustream.tv/uhls/11865974/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Cats Meow Karaokebar -Louisiana
+http://video3.earthcam.com/fecnetwork/4281.flv/HasBahCa.m3u8
+#EXTINF:-1,Chemnitz - HeiBe
+rtmp://stream.livespotting.tv/windit-edge/vv93_720p.stream
+#EXTINF:-1,Chiba Airport In Japan
+http://iphone-streaming.ustream.tv/uhls/11865974/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Columbus Circle
+http://video3.earthcam.com/fecnetwork/6427.flv/HasBahCa.m3u8
+#EXTINF:-1,Crossroads
+http://video3.earthcam.com/fecnetwork/4717.flv/HasBahCa.m3u8
+#EXTINF:-1,Czantoria ski Ustroń
+rtmp://ls1.webcamera.pl/czantoria_cam_2321a8/czantoria_cam_2321a8.stream
+#EXTINF:-1,DATE JAPAN CAMERA
+http://iphone-streaming.ustream.tv/uhls/6856794/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,DEADDLIEST NORTHWESTERN
+http://iphone-streaming.ustream.tv/uhls/17512776/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,DNT HARBOR CAM
+http://iphone-streaming.ustream.tv/uhls/18594032/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,DPAC BEARDSLEY USA
+http://iphone-streaming.ustream.tv/uhls/20172924/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Destin -Florida
+http://video3.earthcam.com/fecnetwork/5663.flv/HasBahCa.m3u8
+#EXTINF:-1,Dortmund - Neues Stadthaus
+rtmp://stream.livespotting.tv/windit-edge/vv95_720p.stream
+#EXTINF:-1,Downtown Tokyo
+http://iphone-streaming.ustream.tv/uhls/16163337/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Dresden - Dresdner Aussicht
+rtmp://stream.livespotting.tv/windit-edge/vv59_720p.stream
+#EXTINF:-1,Duisburg - Sportschule Wedau
+rtmp://stream.livespotting.tv/windit-edge/vv61_720p.stream
+#EXTINF:-1,Düsseldorf Airport cam1
+rtmp://stream-5gw.1000eyes.de/rtplive//dus0600.stream
+#EXTINF:-1,Düsseldorf Airport cam2
+rtmp://stream-5gw.1000eyes.de/rtplive//dus8a21.stream
+#EXTINF:-1,Düsseldorf Airport cam3
+rtmp://stream-5gw.1000eyes.de/rtplive//dus2777.stream
+#EXTINF:-1,Düsseldorf Airport cam4
+rtmp://stream-5gw.1000eyes.de/rtplive//dus275d.stream
+#EXTINF:-1,Düsseldorf Airport cam5
+rtmp://stream-5gw.1000eyes.de/rtplive//dusbc0c.stream
+#EXTINF:-1,ELBURG
+rtsp://streaming3.webcam.nl:80/elburg/elburg.stream
+#EXTINF:-1,EXYUG-Banja luka
+http://edith03.blictv.blic.net:1935/live/ngrp:kamera02.stream_all/chunklist_w873016047_b350000.m3u8
+#EXTINF:-1,EXYUG-Makarska
+rtmp://cdn-01.whatsupcams.com/live//hr_makarska
+#EXTINF:-1,EYESONEARS
+http://iphone-streaming.ustream.tv/uhls/1442565/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,EarthCam TV
+rtmp://video1.earthcam.com:1935/earthcamtv/Stream1
+#EXTINF:-1,Eckernförde - Hafen
+rtmp://stream.livespotting.tv/windit-edge/vv46_720p.stream
+#EXTINF:-1,Eckernförde - Strand
+rtmp://stream.livespotting.tv/windit-edge/vv45_720p.stream
+#EXTINF:-1,Elburg - Netherlands
+rtmp://stream.livespotting.tv/windit-edge/LS_36290_720p.stream
+#EXTINF:-1,Erfurt - KoWo
+rtmp://stream.livespotting.tv/windit-edge/vv101_720p.stream
+#EXTINF:-1,Essen - Ruhrturm
+rtmp://stream.livespotting.tv/windit-edge/vv60_720p.stream
+#EXTINF:-1,FIRST BABY
+http://iphone-streaming.ustream.tv/uhls/9157992/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,FPGA CAFE TSU KUBA
+http://iphone-streaming.ustream.tv/uhls/3839220/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,FallsCam -New Jersey
+http://video3.earthcam.com/fecnetwork/4918.flv/HasBahCa.m3u8
+#EXTINF:-1,Flensburg - Fjord Tourismus
+rtmp://stream.livespotting.tv/windit-edge/vv17_720p.stream
+#EXTINF:-1,Frankfurt - Stadt Frankfurt am Main
+rtmp://stream.livespotting.tv/windit-edge/vv100_720p.stream
+#EXTINF:-1,Freiburg - Volksbank
+rtmp://stream.livespotting.tv/windit-edge/vv112_720p.stream
+#EXTINF:-1,Fulda - Schlossstraße
+rtmp://stream.livespotting.tv/windit-edge/vv62_720p.stream
+#EXTINF:-1,GENEMUIDEN
+rtsp://streaming3.webcam.nl:80/genemuiden/genemuiden.stream
+#EXTINF:-1,Gaienhofen - Hotel Gasthaus Hirschen
+rtmp://stream.livespotting.tv/windit-edge/vv105_720p.stream
+#EXTINF:-1,Garmisch-Partenkirchen - Hotel Vier Jahreszeiten
+rtmp://stream.livespotting.tv/windit-edge/vv111_720p.stream
+#EXTINF:-1,Gdańsk - Brzeźno molo
+http://hls12.webcamera.pl/gdansk_cam_77aeaf/gdansk_cam_77aeaf.stream/chunks.m3u8
+#EXTINF:-1,Gdańsk - Motława
+http://hls12.webcamera.pl/umgdansk_cam_11161c/umgdansk_cam_11161c.stream/chunks.m3u8
+#EXTINF:-1,Gehlberg - Michael Gebser
+rtmp://stream.livespotting.tv/windit-edge/vv123_720p.stream
+#EXTINF:-1,HIMEJI JAPAN
+http://iphone-streaming.ustream.tv/uhls/5058400/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Haffkrug - Lübecker Bucht
+rtmp://stream.livespotting.tv/windit-edge/vv40_720p.stream
+#EXTINF:-1,Halle - Mitteldeutsches Multimediazentrum
+rtmp://stream.livespotting.tv/windit-edge/vv115_720p.stream
+#EXTINF:-1,Hamburg - Emporio
+rtmp://stream.livespotting.tv/windit-edge/vv47_720p.stream
+#EXTINF:-1,Hamburg - Michel
+rtmp://stream.livespotting.tv/windit-edge/LS_b5586_720p.stream
+#EXTINF:-1,Hamburg - Unileverhaus
+rtmp://stream.livespotting.tv/windit-edge/vv74_720p.stream
+#EXTINF:-1,Hannover - Congress Hotel
+rtmp://stream.livespotting.tv/windit-edge/vv71_720p.stream
+#EXTINF:-1,Heidelberg - Hotel Panorama
+rtmp://stream.livespotting.tv/windit-edge/vv75_720p.stream
+#EXTINF:-1,Heidelberg - PundM
+rtmp://stream.livespotting.tv/windit-edge/vv122_720p.stream
+#EXTINF:-1,Hogs Breath Saloon Bar Cam - Key West FL USA
+http://wse1.resortcams.com/live-audio/hogsbreath1.stream_aac/chunklist.m3u8
+#EXTINF:-1,Hogs Breath Saloon Raw Bar Cam - Key West FL USA
+http://wse1.resortcams.com/live-audio/hogsbreath2.stream_aac/chunklist.m3u8
+#EXTINF:-1,Hogs Breath Saloon Stage Cam - Key West FL USA
+http://wse1.resortcams.com/live-audio/hogsbreath3.stream_aac/chunklist.m3u8
+#EXTINF:-1,Hollywood Blvd -California
+http://video3.earthcam.com/fecnetwork/lacitytours1.flv/HasBahCa.m3u8
+#EXTINF:-1,Hörnum - Sylt
+rtmp://stream.livespotting.tv/windit-edge/vv7_720p.stream
+#EXTINF:-1,IDAHO
+http://ktvb-lh.akamaihd.net/i/KTVB_Shows_1@60359/index_1000_av-p.m3u8
+#EXTINF:-1,INFORUM FARGO ND USA
+http://iphone-streaming.ustream.tv/uhls/13415669/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Irish Kevin's Bar Cam - Key West FL USA
+http://wowza.floridakeysmedia.com:1935/irishkevinsbar/irishkevinsbar.stream/chunklist_w984927033.m3u8
+#EXTINF:-1,Irish Kevin's Duval Street Cam - Key West FL USA
+http://wowza.floridakeysmedia.com:1935/irishkevinsstreet/irishkevinsstreet.stream/chunklist_w187144479.m3u8
+#EXTINF:-1,Irish Kevin's Stage Cam - Key West FL USA
+http://wowza.floridakeysmedia.com:1935/irishkevins/irishkevins.stream/chunklist_w38238460.m3u8
+#EXTINF:-1,Ischgl - Pardatschgrat Seilbahn
+rtmp://stream.livespotting.tv/windit-edge/vv157_720p.stream
+#EXTINF:-1,Ischgl - Talstation
+rtmp://stream.livespotting.tv/windit-edge/vv128_720p.stream
+#EXTINF:-1,JAPAN 1
+http://iphone-streaming.ustream.tv/uhls/9955693/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,JAPAN 2
+http://iphone-streaming.ustream.tv/uhls/11241820/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,JAPAN 3
+http://iphone-streaming.ustream.tv/uhls/17662435/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,JAPAN 4
+http://iphone-streaming.ustream.tv/uhls/17662918/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,JAPAN 5
+http://iphone-streaming.ustream.tv/uhls/20026604/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,JAPAN 6
+http://iphone-streaming.ustream.tv/uhls/11681141/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,JAPAN 7
+http://iphone-streaming.ustream.tv/uhls/10919829/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Juist - Inselgemeinde Juist
+rtmp://stream.livespotting.tv/windit-edge/vv51_720p.stream
+#EXTINF:-1,Juister Hof - Juist
+rtmp://stream.livespotting.tv/windit-edge/vv146_720p.stream
+#EXTINF:-1,KASPROWY WIERCH
+rtmp://www.vision-environnement.com:1935/live/krasprowy.stream
+#EXTINF:-1,KESTEREN
+rtsp://streaming3.webcam.nl/n233/n233.stream
+#EXTINF:-1,KIPLIVECAM TAKATSUKI JAPAN
+http://iphone-streaming.ustream.tv/uhls/12311613/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,KRAKÓW Grodzka 2
+rtmp://ls1.webcamera.pl/krakowsan_cam_480f1a/krakowsan_cam_480f1a.stream
+#EXTINF:-1,KRAKÓW rynek Podgórski
+rtmp://ls1.webcamera.pl/krakow_cam_c44608/krakow_cam_c44608.stream
+#EXTINF:-1,KRAKÓW widok na WAWEL
+rtmp://ls1.webcamera.pl/krakow_cam_4c3e37/krakow_cam_4c3e37.stream
+#EXTINF:-1,KRAKÓW. plaża Live
+rtmp://ls1.webcamera.pl/dziwnowum_cam_a4181f/dziwnowum_cam_a4181f.stream
+#EXTINF:-1,KYOTO JAPAN CAM
+http://iphone-streaming.ustream.tv/uhls/16416392/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Kampen - Sylt
+rtmp://stream.livespotting.tv/windit-edge/vv49_720p.stream
+#EXTINF:-1,Kassel - Best Western
+rtmp://stream.livespotting.tv/windit-edge/vv125_720p.stream
+#EXTINF:-1,Kazimierz Dolny Stok Narciarski
+rtmp://ls1.webcamera.pl/nocowanie_cam_edb146/nocowanie_cam_edb146.stream
+#EXTINF:-1,Kiel - Ostufer
+rtmp://stream.livespotting.tv/windit-edge/vv28_720p.stream
+#EXTINF:-1,Kiel - Port of Kiel
+rtmp://stream.livespotting.tv/windit-edge/vv77_720p.stream
+#EXTINF:-1,Kiel - Schleuse
+rtmp://stream.livespotting.tv/windit-edge/vv38_720p.stream
+#EXTINF:-1,Kitzbühel - Hahnenkamm Bergstation
+rtmp://stream.livespotting.tv/windit-edge/vv121_720p.stream
+#EXTINF:-1,Kitzbühel - Hotel Rasmushof
+rtmp://stream.livespotting.tv/windit-edge/vv143_720p.stream
+#EXTINF:-1,Koblenz - Hotel Continental
+rtmp://stream.livespotting.tv/windit-edge/vv36_720p.stream
+#EXTINF:-1,Kowal Park Kazimierza Wielkiego
+rtmp://176.103.33.5:1935/live/kowal
+#EXTINF:-1,Kowal Park Kazimierza Wielkiego2
+rtmp://176.103.33.5:1935/live/kowal2
+#EXTINF:-1,Krefeld - Garden Hotel
+rtmp://stream.livespotting.tv/windit-edge/vv67_720p.stream
+#EXTINF:-1,Krynica Morska. plaża
+rtmp://ls1.webcamera.pl/krynicamorska_cam_b92412/krynicamorska_cam_b92412.stream
+#EXTINF:-1,Kwidzyn Stadnina koni
+rtmp://ls1.webcamera.pl/kwidzyn_cam_5a33f5/kwidzyn_cam_5a33f5.stream
+#EXTINF:-1,Köln - Kölnturm
+rtmp://stream.livespotting.tv/windit-edge/vv69_720p.stream
+#EXTINF:-1,Köln - Pullman Cologne
+rtmp://stream.livespotting.tv/windit-edge/vv99_720p.stream
+#EXTINF:-1,Köln Heumarkt (Rhein- Domblick)
+rtmp://62.113.221.6/neueDorint-rtp/KoelnHeumarkt.stream
+#EXTINF:-1,Kühlungsborn - Strand
+rtmp://stream.livespotting.tv/windit-edge/vv35_450p.stream
+#EXTINF:-1,LEMON FARMS AMALIADA GRECE
+http://iphone-streaming.ustream.tv/uhls/3238486/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,LGCRC SAN ROSE CA USA
+http://iphone-streaming.ustream.tv/uhls/17877571/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Laboe - Ehrenmal
+rtmp://stream.livespotting.tv/windit-edge/vv82_720p.stream
+#EXTINF:-1,Langeness - TU Harburg
+rtmp://stream.livespotting.tv/windit-edge/vv136_720p.stream
+#EXTINF:-1,Lech am Arlberg
+rtmp://stream.livespotting.tv/windit-edge/vv22_720p.stream
+#EXTINF:-1,Lermoos - Zugspitze
+rtmp://stream.livespotting.tv/windit-edge/vv120_720p.stream
+#EXTINF:-1,Lindau - Bodensee
+rtmp://stream.livespotting.tv/windit-edge/vv50_720p.stream
+#EXTINF:-1,Lindau - Lindauer Hof
+rtmp://stream.livespotting.tv/windit-edge/vv113_720p.stream
+#EXTINF:-1,Lübeck - MUK
+rtmp://stream.livespotting.tv/windit-edge/vv44_720p.stream
+#EXTINF:-1,Lübeck - Radisson Blu
+rtmp://stream.livespotting.tv/windit-edge/vv64_720p.stream
+#EXTINF:-1,Lüneburg - Hotel Bergström
+rtmp://stream.livespotting.tv/windit-edge/vv135_720p.stream
+#EXTINF:-1,MOTEGI JAPAN
+http://iphone-streaming.ustream.tv/uhls/16474750/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Marina Del Rey -California
+http://video3.earthcam.com/fecnetwork/uscmarina.flv/HasBahCa.m3u8
+#EXTINF:-1,Midtown East
+http://video3.earthcam.com/fecnetwork/5321.flv/HasBahCa.m3u8
+#EXTINF:-1,Mönchengladbach - Best Western Crown
+rtmp://stream.livespotting.tv/windit-edge/vv118_720p.stream
+#EXTINF:-1,München - Deutsche Eiche
+rtmp://stream.livespotting.tv/windit-edge/vv72_720p.stream
+#EXTINF:-1,München - wetter.com-Redaktion
+rtmp://stream.livespotting.tv/windit-edge/vv55_450p.stream
+#EXTINF:-1,Münster - Raphaelsklinik
+rtmp://stream.livespotting.tv/windit-edge/vv116_720p.stream
+#EXTINF:-1,Münster - Stadthaus
+rtmp://stream.livespotting.tv/windit-edge/vv63_720p.stream
+#EXTINF:-1,NAGAREYAMA JAPAN
+http://iphone-streaming.ustream.tv/uhls/11195404/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,NAKAE JAPAN CAMERA
+http://iphone-streaming.ustream.tv/uhls/6168642/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,NARA JAPAN
+http://iphone-streaming.ustream.tv/uhls/16422052/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,NIJMEGEN
+rtsp://nt-ded11.nijmegen.internl.net:1935/live/brug.stream
+#EXTINF:-1,Neuharlingersiel - Hafen Ost
+rtmp://stream.livespotting.tv/windit-edge/vv12_450p.stream
+#EXTINF:-1,Neuharlingersiel - Hafen West
+rtmp://stream.livespotting.tv/windit-edge/vv13_450p.stream
+#EXTINF:-1,Neuharlingersiel - Panorama
+rtmp://stream.livespotting.tv/windit-edge/vv14_450p.stream
+#EXTINF:-1,Newscafe -Florida
+http://video3.earthcam.com/fecnetwork/3644newscafe.flv/HasBahCa.m3u8
+#EXTINF:-1,Niendorf - Meerwasserhallenbad
+rtmp://stream.livespotting.tv/windit-edge/vv81_720p.stream
+#EXTINF:-1,Norderney - Zimmerservice - Norderney
+rtmp://stream.livespotting.tv/windit-edge/vv147_720p.stream
+#EXTINF:-1,NoviSad Trg Slobode
+rtmp://cam.nsprozor.com/kamere/live//TrgSlobode.stream
+#EXTINF:-1,OME JAPAN
+http://iphone-streaming.ustream.tv/uhls/10628830/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,OSAKA JAPAN
+http://iphone-streaming.ustream.tv/uhls/15992845/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Oberstdorf - Hotel Exquisit
+rtmp://stream.livespotting.tv/windit-edge/vv137_720p.stream
+#EXTINF:-1,Oberwiesenthal - Hotel Fichtelberghaus
+rtmp://stream.livespotting.tv/windit-edge/vv30_720p.stream
+#EXTINF:-1,Oldenburg - Nordwest-Zeitung
+rtmp://stream.livespotting.tv/windit-edge/vv91_720p.stream
+#EXTINF:-1,PAXOS GREECE
+http://iphone-streaming.ustream.tv/uhls/13271950/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,PENTWATER LUDINGTON MI USA
+http://iphone-streaming.ustream.tv/uhls/12273372/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Passau - Hotel König
+rtmp://stream.livespotting.tv/windit-edge/vv98_720p.stream
+#EXTINF:-1,Pelzerhaken - Lübecker Bucht
+rtmp://stream.livespotting.tv/windit-edge/vv8_450p.stream
+#EXTINF:-1,Pertisau am Achensee - Bergstation
+rtmp://stream.livespotting.tv/windit-edge/vv126_720p.stream
+#EXTINF:-1,Pier -California
+http://video3.earthcam.com/fecnetwork/6253.flv/HasBahCa.m3u8
+#EXTINF:-1,Plougonvelin - Bretagne - France
+rtmp://stream.livespotting.tv/windit-edge/LS_a7c71_720p.stream
+#EXTINF:-1,Portugal WEBCAM: ALVOR
+http://video-auth1.iol.pt:1935/beachcam/alvor/chunks.m3u8
+#EXTINF:-1,Portugal WEBCAM: AMOREIRA
+http://video-auth1.iol.pt:1935/beachcam/bcamoreira/chunks.m3u8
+#EXTINF:-1,Portugal WEBCAM: ARRIFANA
+http://video-auth1.iol.pt:1935/beachcam/arrifana/chunks.m3u8
+#EXTINF:-1,Portugal WEBCAM: BARRA
+http://video-auth1.iol.pt:1935/beachcam/aveiro/chunks.m3u8
+#EXTINF:-1,Portugal WEBCAM: BUARCOS
+http://video-auth1.iol.pt:1935/beachcam/figueiradafoz/chunks.m3u8
+#EXTINF:-1,Portugal WEBCAM: CAPARICA CDS
+http://video-auth1.iol.pt:1935/beachcam/costacaparicacds/chunks.m3u8
+#EXTINF:-1,Portugal WEBCAM: CAPARICA S.JOÃO
+http://video-auth1.iol.pt:1935/beachcam/costacaparicasaojoao/chunks.m3u8
+#EXTINF:-1,Portugal WEBCAM: CARCAVELOS
+http://video-auth1.iol.pt:1935/beachcam/carcavelos/chunks.m3u8
+#EXTINF:-1,Portugal WEBCAM: CARVALHAL
+http://video-auth1.iol.pt:1935/beachcam/carvalhal/chunks.m3u8
+#EXTINF:-1,Portugal WEBCAM: ERICEIRA
+http://video-auth1.iol.pt:1935/beachcam/ericeiraspots/chunks.m3u8
+#EXTINF:-1,Portugal WEBCAM: ESMORIZ
+http://video-auth1.iol.pt:1935/beachcam/esmoriz/chunks.m3u8
+#EXTINF:-1,Portugal WEBCAM: ESPINHO
+http://video-auth1.iol.pt:1935/beachcam/espinho/chunks.m3u8
+#EXTINF:-1,Portugal WEBCAM: EVARISTO
+http://video-auth1.iol.pt:1935/beachcam/evaristo/chunks.m3u8
+#EXTINF:-1,Portugal WEBCAM: FONTE DA TELHA
+http://video-auth1.iol.pt:1935/beachcam/fontedatelha/chunks.m3u8
+#EXTINF:-1,Portugal WEBCAM: FURADOURO
+http://video-auth1.iol.pt:1935/beachcam/furadouro/chunks.m3u8
+#EXTINF:-1,Portugal WEBCAM: GRANDE
+http://video-auth1.iol.pt:1935/beachcam/praiagrande/chunks.m3u8
+#EXTINF:-1,Portugal WEBCAM: GUINCHO NORTE
+http://video-auth1.iol.pt:1935/beachcam/praiaguinchonorte/chunks.m3u8
+#EXTINF:-1,Portugal WEBCAM: GUINCHO SUL
+http://video-auth1.iol.pt:1935/beachcam/praiaguinchosul/chunks.m3u8
+#EXTINF:-1,Portugal WEBCAM: JARDIM DO MAR
+http://video-auth1.iol.pt:1935/beachcam/madeirajardimdomar/chunks.m3u8
+#EXTINF:-1,Portugal WEBCAM: LAGIDE
+http://video-auth1.iol.pt:1935/beachcam/lagide/chunks.m3u8
+#EXTINF:-1,Portugal WEBCAM: LEÇA DA PALMEIRA
+http://video-auth1.iol.pt:1935/beachcam/lecadapalmeira/chunks.m3u8
+#EXTINF:-1,Portugal WEBCAM: MATOSINHOS
+http://video-auth1.iol.pt:1935/beachcam/matosinhos/chunks.m3u8
+#EXTINF:-1,Portugal WEBCAM: MEIA PRAIA
+http://video-auth1.iol.pt:1935/beachcam/meiapraia/chunks.m3u8
+#EXTINF:-1,Portugal WEBCAM: MIRA
+http://video-auth1.iol.pt:1935/beachcam/bcmira/chunks.m3u8
+#EXTINF:-1,Portugal WEBCAM: NAZARÉ
+http://video-auth1.iol.pt:1935/beachcam/nazareparadonorte/chunks.m3u8
+#EXTINF:-1,Portugal WEBCAM: PRAIA DA GALÉ
+http://video-auth1.iol.pt:1935/beachcam/bcgale/chunks.m3u8
+#EXTINF:-1,Portugal WEBCAM: PRAIA DA LUZ
+http://video-auth1.iol.pt:1935/beachcam/luz/chunks.m3u8
+#EXTINF:-1,Portugal WEBCAM: PRAIA DA ROCHA
+http://video-auth1.iol.pt:1935/beachcam/praiadarocha/chunks.m3u8
+#EXTINF:-1,Portugal WEBCAM: Praia Matosinhos
+http://130.185.85.5:1935/live/matosinhos.stream/livestream.m3u8
+#EXTINF:-1,Portugal WEBCAM: RIBEIRA D´ ILHAS
+http://video-auth1.iol.pt:1935/beachcam/ribeiradilhas/chunks.m3u8
+#EXTINF:-1,Portugal WEBCAM: S. TORPES
+http://video-auth1.iol.pt:1935/beachcam/saotorpes/chunks.m3u8
+#EXTINF:-1,Portugal WEBCAM: S.PEDRO ESTORIL
+http://video-auth1.iol.pt:1935/beachcam/saopedroestoria/chunks.m3u8
+#EXTINF:-1,Portugal WEBCAM: SANTA CRUZ
+http://video-auth1.iol.pt:1935/beachcam/santacruz/chunks.m3u8
+#EXTINF:-1,Portugal WEBCAM: SUPERTUBOS
+http://video-auth1.iol.pt:1935/beachcam/supertubos/chunks.m3u8
+#EXTINF:-1,Portugal WEBCAM: Santuáriode Fátima (Capelinha das Aparições)
+rtmp://213.13.26.11/live/santuario.stream
+#EXTINF:-1,Portugal WEBCAM: TORREIRA
+http://video-auth1.iol.pt:1935/beachcam/torreira/chunks.m3u8
+#EXTINF:-1,Portugal WEBCAM: VAGUEIRA
+http://video-auth1.iol.pt:1935/beachcam/vagueira/chunks.m3u8
+#EXTINF:-1,Portugal WEBCAM: VILAMOURA
+http://video-auth1.iol.pt:1935/beachcam/vilamoura/chunks.m3u8
+#EXTINF:-1,Portugal WEBCAM: ZAMBUJEIRA
+http://video-auth1.iol.pt:1935/beachcam/zambujeira/chunks.m3u8
+#EXTINF:-1,Potsdam - Hotel Am Luisenplatz
+rtmp://stream.livespotting.tv/windit-edge/vv110_720p.stream
+#EXTINF:-1,Red Rock Cam -Arizona
+http://video3.earthcam.com/fecnetwork/sedonawebcam.flv/hasbahca.m3u8
+#EXTINF:-1,Rostock - Apartment LIVING HOTEL
+rtmp://stream.livespotting.tv/windit-edge/vv89_720p.stream
+#EXTINF:-1,Rostock - Hotel Sportforum
+rtmp://stream.livespotting.tv/windit-edge/vv119_720p.stream
+#EXTINF:-1,Rust - Apollon Hotel
+rtmp://stream.livespotting.tv/windit-edge/vv87_720p.stream
+#EXTINF:-1,SAPPORO JAPAN
+http://iphone-streaming.ustream.tv/uhls/16604980/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,SCHIGASAKI JAPAN
+http://iphone-streaming.ustream.tv/uhls/9909323/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,SOPOT - MOLO
+http://hls8.webcamera.pl/sopot_cam_e1c28f/sopot_cam_e1c28f.stream/chunks.m3u8
+#EXTINF:-1,SOPOT - widok z latarni
+http://hls13.webcamera.pl/sopot_cam_7b9f92/sopot_cam_7b9f92.stream/chunks.m3u8
+#EXTINF:-1,Saarbrücken - La Residence
+rtmp://stream.livespotting.tv/windit-edge/vv68_720p.stream
+#EXTINF:-1,Sankt Peter-Ording - Beach Motel
+rtmp://stream.livespotting.tv/windit-edge/vv129_720p.stream
+#EXTINF:-1,Scharbeutz - Lübecker Bucht
+rtmp://stream.livespotting.tv/windit-edge/vv41_720p.stream
+#EXTINF:-1,Scheveningen surf
+rtmp://b1.dnsdojo.com:1935/live/sys3.stream
+#EXTINF:-1,Schooners Beach - Panama City FL USA
+http://media5.tripsmarter.com:1935/schoonersbeachHDCam830294711349/schbeach/chunklist.m3u8
+#EXTINF:-1,Schooners Hill Bar - Panama City FL USA
+http://media3.tripsmarter.com:1935/schoonersbarHDCam485687461365/schbar/chunklist.m3u8
+#EXTINF:-1,Schooners Sunset - Panama City FL USA
+http://media3.tripsmarter.com:1935/schoonerssunsetHDCam392023487563/schsun/chunklist.m3u8
+#EXTINF:-1,Schwangau - Schloss Neuschwanstein
+rtmp://stream.livespotting.tv/windit-edge/vv108_720p.stream
+#EXTINF:-1,Schwerin - Com In IT Solution Center
+rtmp://stream.livespotting.tv/windit-edge/vv97_720p.stream
+#EXTINF:-1,Scranton -Pennsylvania
+http://video3.earthcam.com/fecnetwork/5005.flv/HasBahCa.m3u8
+#EXTINF:-1,Seoul Shopping Plazza
+http://iphone-streaming.ustream.tv/uhls/18500421/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Seven Arches -Arizona
+http://video3.earthcam.com/fecnetwork/5805.flv/HasBahCa.m3u8
+#EXTINF:-1,Skyline -Washington
+http://video3.earthcam.com/fecnetwork/5019.flv/HasBahCa.m3u8
+#EXTINF:-1,Sloppy Joe's Bar Cam - Key West FL USA
+http://wowza.floridakeysmedia.com:8090/sloppyjoesbar/sloppyjoesbar.stream/chunklist_w1500397604.m3u8
+#EXTINF:-1,Sloppy Joe's Duval Street Cam - Key West FL USA
+http://wowza2.floridakeysmedia.com:1935/liveduvalstreet/liveduvalstreet.stream/chunklist_w634624487.m3u8
+#EXTINF:-1,Sloppy Joe's Stage Cam - Key West FL USA
+http://wowza.floridakeysmedia.com:8090/sloppyjoes/sloppyjoes.stream/chunklist_w1380977688.m3u8
+#EXTINF:-1,South View
+http://video3.earthcam.com/fecnetwork/4017timessquare.flv/HasBahCa.m3u8
+#EXTINF:-1,St. Anton am Arlberg
+rtmp://stream.livespotting.tv/windit-edge/vv21_720p.stream
+#EXTINF:-1,Stralsund - Hotel Hafenresidenz
+rtmp://stream.livespotting.tv/windit-edge/vv132_720p.stream
+#EXTINF:-1,Street Cam
+http://video3.earthcam.com/fecnetwork/hdtimes11.flv/HasBahCa.m3u8
+#EXTINF:-1,Switzarland - Lugano - Skatepark
+rtmp://rtmp.infomaniak.ch/livecast/webcam07luganoch
+#EXTINF:-1,Switzerland - Golfo di Lugano
+rtmp://rtmp.infomaniak.ch/livecast/webcam02luganoch
+#EXTINF:-1,Switzerland - Lago di Lugano
+rtmp://rtmp.infomaniak.ch/livecast/webcam06luganoch
+#EXTINF:-1,Switzerland - Lugano - Lido
+rtmp://rtmp.infomaniak.ch/livecast/webcam05luganoch
+#EXTINF:-1,Switzerland - Lugano - Monte Bré - Ristorante Vetta
+rtmp://rtmp.infomaniak.ch/livecast/webcam08luganoch
+#EXTINF:-1,Switzerland - Lugano - Piazza Riforma
+rtmp://rtmp.infomaniak.ch/livecast/webcam01luganoch
+#EXTINF:-1,Switzerland - Zurich Square
+rtmp://rtmp.infomaniak.ch/livecast/webcam01luganoch
+#EXTINF:-1,Switzerland - Zurich Zoo Cam 1
+rtmp://stream.livespotting.tv/windit-edge//vv78_720p.stream?sa=windit.de
+#EXTINF:-1,Switzerland - Zurich Zoo Cam 2
+rtmp://stream.livespotting.tv/windit-edge/vv23_720p.stream
+#EXTINF:-1,Switzerland - Zurich Zoo Cam 3
+rtmp://stream.livespotting.tv/windit-edge/vv78b_720p.stream
+#EXTINF:-1,TODA SYOUBU RIVER
+http://iphone-streaming.ustream.tv/uhls/19380769/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,TOKIO CAM
+http://iphone-streaming.ustream.tv/uhls/16163337/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,TOKIO JAPAN
+http://iphone-streaming.ustream.tv/uhls/6990066/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,TOKIO JAPAN
+http://iphone-streaming.ustream.tv/uhls/19698644/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,TOKIO JAPAN 2
+http://iphone-streaming.ustream.tv/uhls/10999193/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,TOKIO JAPAN HD CAM
+http://iphone-streaming.ustream.tv/uhls/18550358/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,TOKIO JAPAN MUZIKA CAM
+http://iphone-streaming.ustream.tv/uhls/5883040/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,TOKIO ROAD HDCAM
+http://iphone-streaming.ustream.tv/uhls/18246025/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,TOWNOKOPPE SAPPORO JAPAN
+http://iphone-streaming.ustream.tv/uhls/16112133/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Timmendorfer Strand
+rtmp://stream.livespotting.tv/windit-edge/vv9_450p.stream
+#EXTINF:-1,Torfhaus - Harz
+rtmp://stream.livespotting.tv/windit-edge/vv52_720p.stream
+#EXTINF:-1,Travemünde - Strand
+rtmp://stream.livespotting.tv/windit-edge/vv54_450p.stream
+#EXTINF:-1,Two Friends Patio - Key West FL USA
+http://wowza.floridakeysmedia.com:8090/twofriends/twofriends.stream/chunklist_w276628254.m3u8
+#EXTINF:-1,Tübingen - Casino am Neckar
+rtmp://stream.livespotting.tv/windit-edge/vv109_720p.stream
+#EXTINF:-1,Tübingen - Heindl Internet AG
+rtmp://stream.livespotting.tv/windit-edge/vv104_720p.stream
+#EXTINF:-1,USA-Destin -Florida
+http://video3.earthcam.com/fecnetwork/5424.flv/HasBahCa.m3u8
+#EXTINF:-1,USA-Las Vegas -Nevada
+http://video3.earthcam.com/fecnetwork/eclasvegas.flv/HasBahCa.m3u8
+#EXTINF:-1,USA-Oak Harbor -Washington
+http://video3.earthcam.com/fecnetwork/6172.flv/HasBahCa.m3u8
+#EXTINF:-1,USA-San Francisco -California
+http://video3.earthcam.com/fecnetwork/6603.flv/HasBahCa.m3u8
+#EXTINF:-1,USA-San Jacinto Monument -Texas
+http://video3.earthcam.com/fecnetwork/6081.flv/HasBahCa.m3u8
+#EXTINF:-1,USA-Sante Fe -New Mexico
+http://video3.earthcam.com/fecnetwork/4831.flv/HasBahCa.m3u8
+#EXTINF:-1,USA-Wildwood -New Jersey
+http://video3.earthcam.com/fecnetwork/5732.flv/HasBahCa.m3u8
+#EXTINF:-1,USHINE
+http://iphone-streaming.ustream.tv/uhls/10286044/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Ulm - Hotel Blaubeurer Tor
+rtmp://stream.livespotting.tv/windit-edge/vv66_720p.stream
+#EXTINF:-1,Valmez CZ
+rtmp://212.111.1.7:1937/vlmcam01/vlmcam01.stream
+#EXTINF:-1,WEB CAM
+rtmp://srv13.arkasis.nl:80/778/default.stream
+#EXTINF:-1,WTVC CHI Memorial - 9 DT - Chattanooga - TN Tennesse
+rtmp://wms-east4.wetmet.net/live/201-02-01
+#EXTINF:-1,WTVC Cam Dalton - 9 DT - Chattanooga - TN Tennesse
+rtmp://wms-east4.wetmet.net/live/201-04-01
+#EXTINF:-1,WTVC Cam DoubleTree - 9 DT - Chattanooga - TN Tennesse
+rtmp://wms-east4.wetmet.net/live/201-03-01
+#EXTINF:-1,WWTV 9&amp;10 Cam - 9 DT - Cadillac - MI Michigan
+rtmp://wms-east1.wetmet.net/live/171-02-01
+#EXTINF:-1,Wall Street
+http://video3.earthcam.com/fecnetwork/chargingbull.flv/HasBahCa.m3u8
+#EXTINF:-1,Warnemünde - Best Western Hotel
+rtmp://stream.livespotting.tv/windit-edge/vv20_450p.stream
+#EXTINF:-1,Warnemünde - Yachthafen
+rtmp://stream.livespotting.tv/windit-edge/vv4_450p.stream
+#EXTINF:-1,WebCam BR: PONTE DA AMIZADE - FOZ DO IGUAÇU-PR
+http://wowza.catve.com.br:1935/camera4/camera4.stream/playlist.m3u8
+#EXTINF:-1,Wedding chapel -Nevada
+http://video3.earthcam.com/fecnetwork/5359.flv/HasBahCa.m3u8
+#EXTINF:-1,Weimar - HotelPension am Goethehaus
+rtmp://stream.livespotting.tv/windit-edge/vv92_720p.stream
+#EXTINF:-1,Westerland - Sylt
+rtmp://stream.livespotting.tv/windit-edge/vv43_720p.stream
+#EXTINF:-1,Wiek - Rügen
+rtmp://stream.livespotting.tv/windit-edge/vv25_450p.stream
+#EXTINF:-1,Wolfsburg - Stadt Wolfsburg
+rtmp://stream.livespotting.tv/windit-edge/vv88_720p.stream
+#EXTINF:-1,Wrocław
+http://hls3.webcamera.pl/wroclaw_przed_cam_16c68e/wroclaw_przed_cam_16c68e.stream/chunks.m3u8
+#EXTINF:-1,Września
+http://hls13.webcamera.pl/wrzesnia_cam_ed3c35/wrzesnia_cam_ed3c35.stream/chunks.m3u8
+#EXTINF:-1,Wuppertal - Barmenia
+rtmp://stream.livespotting.tv/windit-edge/vv117_720p.stream
+#EXTINF:-1,Würzburg - Hotel Alter Kranen
+rtmp://stream.livespotting.tv/windit-edge/vv70_720p.stream
+#EXTINF:-1,YAMANASHI JAPAN
+http://iphone-streaming.ustream.tv/uhls/10622952/streams/live/iphone/playlist.m3u8
